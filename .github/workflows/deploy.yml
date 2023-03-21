@@ -20,9 +20,9 @@ jobs:
           node-version: 18.14.2
 
       - name: Install dependencies
-        uses: bahmutov/npm-install@v1.4.5
+        uses: bahmutov/npm-install@cb39a46f27f14697fec763d60fb23ad347e2befa # tag=v1
         with:
-          install-command: --legacy-peer-deps
+          useRollingCache: true
       - name: Build project
         run: npm run build
 
