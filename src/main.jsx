@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<App />}> </Route>
+      <Route path="/portfolio/" element={<App />}> </Route>
       <Route path="project-view" element={<ProjectView />} />
       <Route path="about" element={<About />} />
 
