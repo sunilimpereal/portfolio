@@ -170,10 +170,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "I thought it was impossible to make a app as beautiful as our product, but Sunil proved me wrong.",
+    name: "Nisha",
+    designation: "Developer",
+    company: "Crafty talk",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
@@ -186,10 +186,10 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Worked efficienty with our backend team and Deliverd a beautiful a mobile app for our CRM",
+    name: "Kevin",
+    designation: "Team lead",
+    company: "ZST Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
