@@ -6,6 +6,7 @@ import {
   javascript,
   typescript,
   html,
+  flutter,
   css,
   reactjs,
   redux,
@@ -71,6 +72,10 @@ const services = [
 ];
 
 const technologies = [
+  {
+    name: "Flutter",
+    icon: flutter,
+  },
   {
     name: "HTML 5",
     icon: html,
@@ -154,7 +159,6 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",

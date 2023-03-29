@@ -12,6 +12,7 @@ import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
+import flutter from "./tech/flutter.jpg";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
@@ -52,6 +53,7 @@ export {
   figma,
   git,
   html,
+  flutter,
   javascript,
   mongodb,
   nodejs,
